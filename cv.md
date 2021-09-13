@@ -20,7 +20,7 @@ I always do my best to dedicate myself to the project I'm working on and always 
 
 - JavaScript
 - HTML5, CSS3
-- VUE.js, Vuexss
+- VUE.js, Vuex
 
 ### Example of the codewars solution (5kyu)
 
